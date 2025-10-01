@@ -19,7 +19,7 @@ header {
     text-align: center;
     color: brown;
     margin-top: 2vh;
-    text-shadow: 3px 2px 2px brown;
+    text-shadow: 5px 7px 2px rgb(226, 142, 142);
     font-style: italic;
     font-size: larger;
     display: flex;
